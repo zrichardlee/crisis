@@ -1,8 +1,10 @@
 ---
-title: Documents
-category: Media
+title: Flattening the Curve
+category: Staying Informed 🔬
 order: 3
 ---
+
+# This article is on resources to help flatten the curve
 
 Share documents with your friends! Send work or school projects from your computer or phone.
 

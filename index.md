@@ -1,38 +1,43 @@
 ---
-title: Welcome
+title: Welcome 👋
 ---
 
-This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
-**Edition** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
+<!--![Edition template screenshot](images/headerlogo.png =100x100)-->
 
-ChatApp is a fictional chat application for sending messages and media to others.
-Teams and friend groups would use ChatApp to stay up to date if it existed.
+![logo](images/headerlogo.png){: width="200" height="200"}
 
-> [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
+*"All of us, at some time or other, need help. Whether we're giving or receiving help, each one of us has something valuable to bring to this world."* — Mr. Rogers
 
-### Getting Started
+### Purpose of this site
 
-Getting a message sent is quick and easy with ChatApp:
+The Covid-19 crisis has impacted all of us. If you **[need help](/i-need-help-individuals/main)** or would like to **[provide help](i-want-to-help/main)**, this site is for you. We'll do the research and list relevant resources here, so you can focus on what's important.
 
-1. Sign up for an account
-2. Add your friends from their email addresses
-3. Type a message or send a photo
+### How to use this site
 
-> Feel free to send us a message at [feedback@example.com](mailto:feedback@example.com) with your feedback.
+This site is organized into 3 sections:
 
-### Features
+* A section for [individuals who need help](/i-need-help-individuals/main/)
+* A section for [organizations and groups that need help](/i-need-help-organizations/main/) — currently a work in progress
+* A section for [opportunities to volunteer and provide help](/i-want-to-help/main/) — currently a work in progress
 
-Explore more of ChatApp by reading about our features:
+Please feel free to use the **search bar** in case you don't immediately find what you're looking for.
 
-#### Media
+> If you're on mobile, tap the three-lined hamberger icon above ![hamburger](images/hamburger.PNG){: width="17" height="17"} to search and browse.
 
-Send images, videos and other media to people. Sources include your computer, phone and Facebook.
+### About
 
-#### Contact Syncing
+I'm Richard and I built this site to give people an outlet to seek and provide help during the Covid-19 pandemic.
 
-Sync your contact list with your phone and/or Facebook contacts. Never lose your contacts between devices again!
+Thousands of people, organizations, and informational sources are already directing assistance to specific impacted areas and individuals, so this site merely serves as a directory to consolidate them in a single location.
 
-#### Devices
+I hope this provides some measure of assistance to you, and I wish you all health and safety during this trying time.
 
-ChatApp is available everywhere. Find out how to set it up on your all your devices.
+—R
+
+### Contact
+
+Would you like to add or help with this site? Fill out the form below, or send an email to [richard@zrlee.com](mailto:me@zrlee.com).
+
+---
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdhP6ZAg7uHKNE-Di5EGuRCwhly8vJVmrgkJbJz-6bclcKwtA/viewform?embedded=true" width="640" height="418" frameborder="0" marginheight="0" marginwidth="0">Loading&hellip;</iframe>

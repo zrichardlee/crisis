@@ -1,8 +1,10 @@
 ---
-title: Android
-category: Devices
-order: 2
+title: 3D Printing
+category: I Want To Help ️😇
+order: 3
 ---
+
+**This page will be about providing help by providing your 3D printer**
 
 Use ChatApp on all of your Android devices. Every version is supported.
 

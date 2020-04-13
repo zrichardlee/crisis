@@ -27,7 +27,7 @@
 	<body>
 		<header>
 			<h1>
-				<a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/headerlogo.png" width="40" height="40" alt="{{ site.title }} logo"></a>
+				<a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/siteicon" width="40" height="40" alt="{{ site.title }} logo"></a>
 				{{ site.title }}
 				<button type="button" class="open-nav" id="open-nav"></button>
 			</h1>
@@ -61,9 +61,9 @@
 				</ul>
 
 				<ul>
-					<li class="nav-item top-level {% if page.url == '/updates/' %}current{% endif %}">
-						{% assign updates = site.html_pages | where: 'url', '/updates/' | first %}
-						<a href="{{ site.baseurl }}/updates/">{{ updates.title }}</a>
+					<li class="nav-item top-level {% if page.url == '/changelog/' %}current{% endif %}">
+						{% assign changelog = site.html_pages | where: 'url', '/changelog/' | first %}
+						<a href="{{ site.baseurl }}/changelog/">{{ changelog.title }}</a>
 					</li>
 				</ul>
 			</nav>

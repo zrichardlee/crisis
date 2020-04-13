@@ -1,58 +1,43 @@
-# ----
-# Site
-
-title: Crisis Unite
-url: "https://long-pig.cloudvent.net"
-baseurl:
-google_analytics_key:
+title: Crisis Community
+url: 'https://crisiscommunity.com'
+baseurl: null
+google_analytics_key: UA-161452755-1
 show_full_navigation: true
-
-# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Help people find resources to seek and provide help
+description: >-
+  A site that compiles verified methods of providing help and seeking help in
+  time of crisis
 author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+  name: Richard Lee
+  email: me@zrlee.com
+  twitter: ImRichardLee
 social:
-  name: Crisis Unite
-  links:
-#    - https://github.com/CloudCannon/edition-jekyll-template
-
-# -----
-# Build
-
+  name: null
+  links: null
 timezone: Etc/UTC
-
 permalink: pretty
-
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
-
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
   - LICENCE
-
 collections:
   docs:
-    title: Documentation
-    permalink: /:path/
+    title: Categories
+    permalink: '/:path/'
     output: true
-
 defaults:
-  -
-    scope:
-      path: ""
+  - scope:
+      path: ''
     values:
       layout: default
-  -
-    scope:
-      path: ""
-      type: "docs"
+  - scope:
+      path: ''
+      type: docs
     values:
       seo:
         type: Article
@@ -63,17 +48,12 @@ defaults:
         content:
           width: 800
           height: 2000
-  -
-    scope:
-      path: ""
-      type: "posts"
+  - scope:
+      path: ''
+      type: posts
     values:
       _comments:
         type: Marks the impact of this release
-
-# -----------
-# CloudCannon
-
 types:
   - minor
   - major

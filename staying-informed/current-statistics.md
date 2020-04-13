@@ -1,6 +1,6 @@
 ---
-title: Video
-category: Media
+title: Current Statistics
+category: Staying Informed 🔬
 order: 2
 ---
 
