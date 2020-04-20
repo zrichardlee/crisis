@@ -5,11 +5,10 @@ google_analytics_key: UA-161452755-1
 show_full_navigation: true
 logo: /siteicon.png
 description: >-
-  A site that compiles verified methods of providing help and seeking help in
-  time of crisis
+  A site that compiles methods of providing help and seeking help during the Coronavirus Pandemic
 author:
   name: Richard Lee
-  email: me@zrlee.com
+  email: richard@zrlee.com
   twitter: ImRichardLee
 social:
   name: null
@@ -24,7 +23,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - LICENCE
+  - LICENSE
 collections:
   docs:
     title: Categories

@@ -22,9 +22,15 @@
 			</script>
 			<script async src='https://www.google-analytics.com/analytics.js'></script>
 		{% endif %}
+		
+		<!--for share this-->
+		<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=5e9cbc2adef26b0012c9b80e&product=sticky-share-buttons" async="async"></script>
 	</head>
 
 	<body>
+		<!--for share this-->
+		<div class="sharethis-inline-share-buttons"></div> 
+
 		<header>
 			<h1>
 				<a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/headerlogo.png" width="40" height="40" alt="{{ site.title }} logo"></a>
@@ -33,7 +39,7 @@
 			</h1>
 
 			<form action="{{ site.baseurl }}/search/" method="get">
-				<input type="text" name="q" id="search-input" placeholder="Search" autofocus>
+				<input type="text" name="q" id="search-input" placeholder="Search 🔍" autofocus>
 				<input type="submit" value="Search" style="display: none;">
 			</form>
 
