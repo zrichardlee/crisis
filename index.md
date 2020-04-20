@@ -2,42 +2,35 @@
 title: Welcome 👋
 ---
 
-<!--![Edition template screenshot](images/headerlogo.png =100x100)-->
-
-![logo](images/headerlogo.png){: width="200" height="200"}
-
-*"All of us, at some time or other, need help. Whether we're giving or receiving help, each one of us has something valuable to bring to this world."* — Mr. Rogers
-
-### Purpose of this site
-
-The Covid-19 crisis has impacted all of us. If you **[need help](/i-need-help-individuals/main)** or would like to **[provide help](i-want-to-help/main)**, this site is for you. We'll do the research and list relevant resources here, so you can focus on what's important.
-
-### How to use this site
-
-This site is organized into 3 sections:
-
-* A section for [individuals who need help](/i-need-help-individuals/main/)
-* A section for [organizations and groups that need help](/i-need-help-organizations/main/) — currently a work in progress
-* A section for [opportunities to volunteer and provide help](/i-want-to-help/main/) — currently a work in progress
-
-Please feel free to use the **search bar** in case you don't immediately find what you're looking for.
-
-> If you're on mobile, tap the three-lined hamberger icon above ![hamburger](images/hamburger.PNG){: width="17" height="17"} to search and browse.
-
-### About
-
-I'm Richard and I built this site to give people an outlet to seek and provide help during the Covid-19 pandemic.
-
-Thousands of people, organizations, and informational sources are already directing assistance to specific impacted areas and individuals, so this site merely serves as a directory to consolidate them in a single location.
-
-I hope this provides some measure of assistance to you, and I wish you all health and safety during this trying time.
-
-—R
-
-### Contact
-
-Would you like to add or help with this site? Fill out the form below, or send an email to [richard@zrlee.com](mailto:me@zrlee.com).
+*“All of us, at some time or other, need help. Whether we’re giving or receiving help, each one of us has something valuable to bring to this world.”* — Mr. Rogers
 
 ---
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdhP6ZAg7uHKNE-Di5EGuRCwhly8vJVmrgkJbJz-6bclcKwtA/viewform?embedded=true" width="640" height="418" frameborder="0" marginheight="0" marginwidth="0">Loading&hellip;</iframe>
+## Our Purpose
+
+Crisis Community is a resource center, built in response to the Coronavirus Pandemic.
+
+We’ve organized the site into the following sections:
+
+* A section for [individuals who need help](/i-need-help-individuals/main/)
+* A section for [organizations that need help](/i-need-help-organizations/main/) — *coming soon*
+* A section for [opportunities to volunteer and provide help](/i-want-to-help/main/)
+
+Our community of contributors have aggregated the relevant resources here (as many as we can find), so you can focus on what’s important to you.
+
+When you discover a helpful outlet here, submit a suggestion, or recommend Crisis Community to your friends, you’re actively contributing to our mission.
+
+### About
+
+I’m [Richard](https://www.linkedin.com/in/zrlee){: target="_blank"} and I built Crisis Community to consolidate helpful resources for people facing the Covid-19 pandemic.
+
+I hope this site helps you, and wish you safety and health during this trying time.
+
+—R
+
+
+### Suggestions
+
+If you have a suggestion for us, share your feedback below or email [richard@zrlee.com](mailto:richard@zrlee.com){: target="_blank"}.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdhP6ZAg7uHKNE-Di5EGuRCwhly8vJVmrgkJbJz-6bclcKwtA/viewform?embedded=true" width="100%" height="345" frameborder="0" marginheight="0" marginwidth="0">Loading&hellip;</iframe>
